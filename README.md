@@ -1,7 +1,6 @@
 # SQL-Connect-Python
-I install the python and pip after my sql is installed and connected int by using the 
-import mysql.connector
-by using the #vscode tool the mysql and pyuthon as connected 
+I install the python and pip after my sql is installed and connected it by using the 
+by using the #vscode tool the mysql and pyuthon as connected "import mysql.connector"
 then by using the python language
 show case the all datasets
 create the new dtaset"nomal"
